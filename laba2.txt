@@ -1,0 +1,5 @@
+public class laba2 {
+    int std_id;
+    String name;
+    float avg;
+    }
